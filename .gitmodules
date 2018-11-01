@@ -1,0 +1,3 @@
+[submodule "terraform_custom_plugin_bin"]
+	path = terraform_custom_plugin_bin
+	url = https://github.com/firedot/terraform_custom_plugin_bin.git
